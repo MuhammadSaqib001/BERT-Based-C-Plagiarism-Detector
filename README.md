@@ -52,4 +52,4 @@ The Transformer-based C/C++ Code Plagiarism Detector can be seamlessly integrate
 ## Contributing
 Contributions are welcome! Whether you want to report a bug, request a feature, or submit improvements, please review our [Contribution Guidelines](/CONTRIBUTING.md) before getting started.
 
-For any inquiries or feedback, please reach out to our team at [contact@example.com](mailto:contact@example.com). We value your input and are dedicated to enhancing the performance and usability of our plagiarism detection tool . By using the Transformer-based C/C++ Code Plagiarism Detector, you are taking a proactive step toward upholding the integrity of code and fostering a culture of originality. Thank you for choosing our tool to support your code analysis needs!
+We value your input and are dedicated to enhancing the performance and usability of our plagiarism detection tool . By using the Transformer-based C/C++ Code Plagiarism Detector, you are taking a proactive step toward upholding the integrity of code and fostering a culture of originality. Thank you for choosing our tool to support your code analysis needs!
