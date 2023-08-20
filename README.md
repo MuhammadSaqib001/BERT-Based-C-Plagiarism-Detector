@@ -1,6 +1,8 @@
 # BERT based C/C++ Code Plagiarism Detector
 
-The **Transformer-based C/C++ Code Plagiarism Detector** is an advanced software tool designed to identify instances of plagiarism within C/C++ source code files. By harnessing the power of state-of-the-art natural language processing techniques, this detector can effectively uncover similarities in code structures and semantics. Whether you're an educator, a developer, or a code reviewer, this tool can assist you in maintaining the integrity of codebases and promoting originality. Dataset Source :- https://ieee-dataport.org/open-access/programming-homework-dataset-plagiarism-detection
+The **Transformer-based C/C++ Code Plagiarism Detector** is an advanced software tool designed to identify instances of plagiarism within C/C++ source code files. By harnessing the power of state-of-the-art natural language processing techniques, this detector can effectively uncover similarities in code structures and semantics. Whether you're an educator, a developer, or a code reviewer, this tool can assist you in maintaining the integrity of codebases and promoting originality. 
+
+Dataset Source :- https://ieee-dataport.org/open-access/programming-homework-dataset-plagiarism-detection
 
 ![Plagiarism Detector](https://github.com/MuhammadSaqib001/BERT-Based-C-Plagiarism-Detector/blob/main/nlp1.PNG)
 
